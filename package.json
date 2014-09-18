@@ -8,7 +8,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/flatiron/winston.git"
+    "url": "https://github.com/meiriko/winston.git"
   },
   "keywords": [
     "logging",
